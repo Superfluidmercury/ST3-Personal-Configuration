@@ -1,0 +1,2390 @@
+{
+	"folder_history":
+	[
+		"/D/Workbench/websites/Default Web Framework",
+		"/D/Workbench/websites/framework",
+		"/D/Workbench/websites/weoneworld",
+		"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul",
+		"/C/Users/Kjeld/Desktop/Audio-Input-Effects-master",
+		"/D/Games/WoW/World of Warcraft/Interface/AddOns/HelloWorld",
+		"/D/Games/WoW/World of Warcraft/Interface/AddOns/RepGrind",
+		"/D/Workbench/workspace/workspace/TheAIGames/Tetris",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip",
+		"/D/Workbench/workspace/workspace/nodejs",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/superfluidwebdesign",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/contain",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/isabel-neu",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/posterisation",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/simulplay",
+		"/C/Users/Kjeld/Documents/GitHub/accept2/illacceptanything",
+		"/C/Users/Kjeld/Documents/GitHub/illacceptanything",
+		"/D/Workbench/workspace/workspace/Illacceptanything/illacceptanything",
+		"/D/Programme (Nicht zeitkritisch)/wamp/www/authors",
+		"/E/Programme (Nicht zeitkritisch)/wamp/www/schicksale",
+		"/E/Workbench/websites/chrome-no-css/CSS-Blocker",
+		"/E/Workbench/websites/chrome-no-css",
+		"/E/Programme (Nicht zeitkritisch)/wamp/www/mtm",
+		"/E/Programme (Nicht zeitkritisch)/wamp/www/tralavia",
+		"/E/Programme (Nicht zeitkritisch)/wamp/www/isabel-neu",
+		"/E/Programme (Nicht zeitkritisch)/wamp/www/posterisation",
+		"/E/Programme (Nicht zeitkritisch)/wamp/www/spontanreisen"
+	],
+	"last_version": 3083,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"im",
+						"important"
+					],
+					[
+						"text",
+						"textBox"
+					],
+					[
+						"pl",
+						"playTone"
+					],
+					[
+						"play",
+						"playTone"
+					],
+					[
+						"pla",
+						"playTone"
+					],
+					[
+						"re",
+						"Return"
+					],
+					[
+						"aur",
+						"auraLevel"
+					],
+					[
+						"st",
+						"style	Tag"
+					],
+					[
+						"ow",
+						"owner"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"page",
+						"pageNumber"
+					],
+					[
+						"He",
+						"HelloWorld"
+					],
+					[
+						"get",
+						"getEmptyMatrix"
+					],
+					[
+						"sha",
+						"shapeWidth"
+					],
+					[
+						"Sha",
+						"ShapeEditor"
+					],
+					[
+						"place",
+						"playceEmptyShape"
+					],
+					[
+						"newSha",
+						"newShapeArea"
+					],
+					[
+						"new",
+						"newShapeButton"
+					],
+					[
+						"le",
+						"levelSizeInput"
+					],
+					[
+						"leve",
+						"levelSize"
+					],
+					[
+						"nex",
+						"nextLevelData"
+					],
+					[
+						"un",
+						"unused"
+					],
+					[
+						"uns",
+						"unusedCount"
+					],
+					[
+						"cu",
+						"currentLevelNumber"
+					],
+					[
+						"val",
+						"valueSum"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"app",
+						"applyShape"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"col",
+						"columnsToShow"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"gi",
+						"givingColumn"
+					],
+					[
+						"giv",
+						"givingColumn"
+					],
+					[
+						"to",
+						"toAppend"
+					],
+					[
+						"a",
+						"adminView"
+					],
+					[
+						"h",
+						"history"
+					],
+					[
+						"sub",
+						"substitution"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"su",
+						"substitution"
+					],
+					[
+						"ins",
+						"insertion"
+					],
+					[
+						"ed",
+						"editSequence"
+					],
+					[
+						"edi",
+						"editPath"
+					],
+					[
+						"edit",
+						"editSequence"
+					],
+					[
+						"dele",
+						"deletion"
+					],
+					[
+						"subs",
+						"substitution"
+					],
+					[
+						"susb",
+						"substitutionValue"
+					],
+					[
+						"us",
+						"userColumnsToShow"
+					],
+					[
+						"sh",
+						"showColumns"
+					],
+					[
+						"C",
+						"CustomSearchFunctions"
+					],
+					[
+						"Ver",
+						"Verurteilungsdatum"
+					],
+					[
+						"row",
+						"rows"
+					],
+					[
+						"conf",
+						"confirmDeletion"
+					],
+					[
+						"pr",
+						"properRow"
+					],
+					[
+						"n",
+						"name"
+					],
+					[
+						"sort",
+						"sortByColumn"
+					],
+					[
+						"Se",
+						"seach1"
+					],
+					[
+						"hid",
+						"hideOthers"
+					],
+					[
+						"hi",
+						"hideOthers"
+					],
+					[
+						"vi",
+						"videoCount"
+					],
+					[
+						"vide",
+						"videos"
+					],
+					[
+						"vid",
+						"videos"
+					],
+					[
+						"pa",
+						"pageToken"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"p",
+						"pauseButton"
+					],
+					[
+						"paus",
+						"pauseButton"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"ifr",
+						"iframes"
+					],
+					[
+						"video",
+						"videoId"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"url",
+						"urlInput"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"chec",
+						"checkDict"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"colu",
+						"columnToSort"
+					],
+					[
+						"column",
+						"columnToSort"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"quer",
+						"queryDialog"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"dom",
+						"DOMElement"
+					],
+					[
+						"q",
+						"queryDialog"
+					],
+					[
+						"qua",
+						"queryDialog"
+					],
+					[
+						"exe",
+						"execute"
+					],
+					[
+						"data",
+						"dataSet"
+					],
+					[
+						"sele",
+						"selectTarget"
+					],
+					[
+						"is",
+						"isCompleteDate"
+					],
+					[
+						"di",
+						"displayRow"
+					],
+					[
+						"ver",
+						"verurteilung"
+					],
+					[
+						"co",
+						"columnsToCheck"
+					],
+					[
+						"apply",
+						"applyFilter"
+					],
+					[
+						"date",
+						"dateInCell"
+					],
+					[
+						"check",
+						"checkBoxName"
+					],
+					[
+						"che",
+						"checkBoxName"
+					],
+					[
+						"filter",
+						"filterDateInputs"
+					],
+					[
+						"veru",
+						"verurteilungStart"
+					],
+					[
+						"verh",
+						"verhaftungStart"
+					],
+					[
+						"dat",
+						"dateOfA"
+					],
+					[
+						"Da",
+						"dateOfB"
+					],
+					[
+						"Date",
+						"dateOfA"
+					],
+					[
+						"s",
+						"sortingFunction"
+					],
+					[
+						"c",
+						"currentSurname"
+					],
+					[
+						"rese",
+						"resetButton"
+					],
+					[
+						"valid",
+						"validEntries"
+					],
+					[
+						"fil",
+						"filterColumn"
+					],
+					[
+						"queried",
+						"queriedSurname"
+					],
+					[
+						"que",
+						"queriedSurname"
+					],
+					[
+						"v",
+						"vorname"
+					],
+					[
+						"up",
+						"updateFloatingHeaderWidth"
+					],
+					[
+						"no",
+						"noDuplicateColors"
+					],
+					[
+						"rad",
+						"commonColorsRadius"
+					],
+					[
+						"comm",
+						"commonColorsButton"
+					],
+					[
+						"commonco",
+						"commonColorsRadius"
+					],
+					[
+						"tr",
+						"targetUrl"
+					],
+					[
+						"Upda",
+						"updateFloatingHeaderWidth"
+					],
+					[
+						"width",
+						"widthFix"
+					],
+					[
+						"clo",
+						"clonedHeaderRow"
+					],
+					[
+						"pos",
+						"pos-f	position: fixed;"
+					],
+					[
+						"color",
+						"color"
+					],
+					[
+						"li",
+						"link	Tag"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"corr",
+						"Correctly"
+					],
+					[
+						"colo",
+						"color2"
+					],
+					[
+						"hex",
+						"hexNormalizeNumber"
+					],
+					[
+						"coun",
+						"countColorOccurences"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"collas",
+						"collapsedContent"
+					],
+					[
+						"wh",
+						"whs-nw	white-space: nowrap;"
+					],
+					[
+						"inl",
+						"inline-block"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+							""
+						],
+						[
+							"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+							"Compile"
+						],
+						[
+							"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+							"Harmony"
+						]
+					],
+					[
+						"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 196.0,
+				"last_filter": "instal",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packa",
+						"Package Control: Enable Package"
+					],
+					[
+						"emme",
+						"Set Syntax: Emmet"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 355.0,
+				"history":
+				[
+					"print(\"lol\")",
+					"print(lol)",
+					"print \"lol\"",
+					"map",
+					"hi",
+					"hi = \"hi\"",
+					"var hi = \"hi\";",
+					"isthisjs",
+					"\"rekt\".charAt(2)",
+					"\"rekt\"[2]",
+					"\"rekt\"[5]",
+					"[] + {}",
+					"\"hi\"",
+					"hi",
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Workbench/websites/weoneworld/web/index.html",
+				"/C/Users/Kjeld/Desktop/test.html",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Verpflichtend/Unikram/Lernen/Rechnerstrukturen und Betriebssysteme/Übrung 2/RSBS - Arith.circ",
+				"/D/Workbench/websites/weoneworld/web/wow-neu.html",
+				"/D/Workbench/workspace/workspace/nodejs/server.js",
+				"/D/Workbench/workspace/workspace/nodejs/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/script.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/soundfiles/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/levenshtein.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/index.html",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/js/owner.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/js/display.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/main.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/style.sass",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/soundfiles/TEMP.BAT",
+				"/C/Users/Kjeld/Desktop/funk.ahk",
+				"/D/Programme (Nicht zeitkritisch)/Sublime Text 3/Hallo Monique,",
+				"/C/Users/Kjeld/Desktop/Hallo Monique,",
+				"/C/Program Files (x86)/Image-Line/FL Studio 11/Data/Projects/singlenote.flp",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/footer.php",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/front-page.php",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/style.sccs",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/functions.php",
+				"/C/Python34/Lib/sendkeys-py-si-master/examples/MacroScript.py",
+				"/C/Users/Kjeld/Desktop/songs.txt",
+				"/C/Users/Kjeld/Desktop/Audio-Input-Effects-master/index.html",
+				"/C/Users/Kjeld/Dropbox/Michael, Music and Math/FL Studio Producer Edition 11.0.4+Plugins Bundle R2R [ChingLiu]/ChingLiu.Install.Notes.nfo",
+				"/D/Program Files (x86)/Grabber/grabber.conf.xml",
+				"/D/Program Files (x86)/Grabber/results/touchFiles.xml",
+				"/D/Program Files (x86)/Grabber/local/spiderSite.xml",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/BotRun.py",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/Bot/Planner.py",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/Bot/Strategies/AbstractStrategy.py",
+				"/D/Workbench/playbook.txt",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/HelloWorld/HelloWorld.toc",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/HelloWorld/HelloWorld.lua",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/RepGrind/HelloWorld.toc",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/RepGrind/HelloWorld.xml",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/RepGrind/HelloWorld.lua",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/Bagnon/Bagnon.toc",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/Bot/Strategies/RandomStrategy.py",
+				"/C/Users/Kjeld/Desktop/generierte texte",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/Bagnon/main.lua",
+				"/C/Users/Kjeld/Desktop/xkcd/crawler.py",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/style.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Shape.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Square.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Game.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/editor.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/editableShape.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/editor.js",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/LICENSE",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/levelData.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/editor.min.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/script.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/style.css",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/utility.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/index.html",
+				"/D/Verpflichtend/Bewerbungskram/Juni 2015/Krankenkassenbescheinnigung",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/test/tests.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/user.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/user.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/user.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/controls.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/table.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/index.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/style.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/customSeachFunctions.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/ready.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/todo.txt",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/user.js",
+				"/D/Workbench/workspace/workspace/nodejs/package.json",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/wp-config.php",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/Database.class.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/classes/Database.class.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/script.user.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/memoriam.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/styles.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/test.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/tests.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/admin.htm",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/sounds/filelist.txt",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/Kjeld/Desktop/index.html",
+				"/J/user.js",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/scripts/classes/Orb.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/style.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/addRowDialog.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/ajax.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/database.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/utility.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/classes/row.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/simulplay/style.css",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/simulplay/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/simulplay/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/isabel-neu/.htaccess",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/queryDialog.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/classes/addRowDialog.js",
+				"/D/Music/Bass/Tell me why",
+				"/D/Workbench/workspace/workspace/Python/generateLetterBitmap.py",
+				"/D/Workbench/workspace/workspace/Python/script.py",
+				"/D/Workbench/workspace/workspace/Python/helloworld.py",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-2/explainThisWord.php",
+				"/C/Users/Kjeld/Desktop/explainThisWord.php",
+				"/C/Users/Kjeld/Documents/GitHub/accept2/illacceptanything/index.html",
+				"/C/Users/Kjeld/Documents/GitHub/illacceptanything/index.html",
+				"/D/Workbench/workspace/workspace/Illacceptanything/illacceptanything/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/style.css",
+				"/D/Workbench/Designs/PraxisPrint/Buch Canaris-gekürzte Version.html",
+				"/D/Workbench/Designs/PraxisPrint/canaris-autotidied.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/script.js",
+				"/D/Workbench/Designs/PraxisPrint/Buch Canaris-gekürzte Version.txt",
+				"/D/Programme (Nicht zeitkritisch)/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+				"/E/Programme (Nicht zeitkritisch)/wamp/www/schicksale/ajax.php",
+				"/E/Programme (Nicht zeitkritisch)/wamp/www/schicksale/classes/Database.class.php",
+				"/E/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/database.js",
+				"/E/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/table.js",
+				"/E/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/utility.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\FlipFlip",
+					"D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\schicksale",
+					"E:\\Workbench\\websites\\chrome-no-css\\CSS-Blocker",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\schicksale",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\schicksale\\scripts",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\mtm",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\posterisation",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"id=\"login",
+					"id=login",
+					"#login",
+					"loginpage",
+					"login",
+					"loginpage",
+					"welcome",
+					"role=\"page\"",
+					"welcome1",
+					"role=\"page\"",
+					"<a onClick=\"appei",
+					"selectlan",
+					"select",
+					"Hello",
+					"hello",
+					"id=hello",
+					"id=\"hello\"",
+					"#hello",
+					"welcome1",
+					"<div class=\"log",
+					"<div class=\"",
+					"<div class=\"logo\"",
+					"seiteneu",
+					"losat",
+					"eilback.png\" class=\"weiterbuttonicon\"/></a>",
+					"id=\"welc",
+					"welcome",
+					"uberschrifteinfuhrung",
+					"role=\"page\"",
+					"role=\"page\"	",
+					"role=\"page\"",
+					"role",
+					"role=page",
+					"$(\"#f",
+					".keyup(function() {\n        var text = $(this).val();\n        $(this).val(\n            text.replace(\"ä\", \"ae\")\n                .replace(\"ö\", \"oe\")\n                .replace(\"ü\", \"ue\")\n        );\n    });",
+					"ÃƒÂ¶",
+					"replace",
+					"ÃƒÂ¼",
+					"fär",
+					"ÃƒÂ¤",
+					"clickcr",
+					"desctopright",
+					"background-color: #5466ae",
+					"background-color: #5466ae !important;",
+					"role=\"page\"",
+					"desctop[^right|^left]",
+					"desctop[^right|left]",
+					"desctop",
+					"!",
+					"ctrl+e",
+					"!",
+					"ctrl+e",
+					"!",
+					"asd",
+					"!",
+					"class",
+					"div",
+					"!",
+					"textBox",
+					"input",
+					"tempo",
+					"length",
+					"8",
+					"'8'",
+					"note",
+					"playNote",
+					"\"",
+					"conso",
+					"at( )",
+					"1 ) ) +",
+					" ) +",
+					" +",
+					"a.sli",
+					"cons",
+					"ra",
+					".i",
+					"typeof",
+					"\"",
+					"result =",
+					"resu",
+					"return",
+					"console.log( typeof a + typeof b + typeof i );",
+					"{",
+					" \"",
+					"[A-Z].*$",
+					"\\n",
+					"^",
+					"(\\d){2}",
+					"\\s+",
+					"\n",
+					"\\s+",
+					"this",
+					"#",
+					",",
+					"arg",
+					"te unschuld",
+					" zeigte anklagend auf die Echse.",
+					"\n",
+					"\\-\\s.*",
+					"r.e.m.",
+					"\\s\\[[0-9]{4}\\].mp3",
+					"\\s\\t.*",
+					"\\t\\t[0-9]{4}.\\s",
+					"wieder",
+					"					",
+					" –",
+					"^.*–",
+					"^",
+					">>> ",
+					"Champ",
+					"Cham",
+					"'",
+					"In",
+					"<inp",
+					" type=\"number\"",
+					"<input",
+					"div",
+					"levelSize",
+					"newLevel",
+					"placeEmptyBoard",
+					"getEmptyMap",
+					"Editor",
+					"		 ",
+					"	   ",
+					"switch",
+					"console.l",
+					"nge to unused",
+					"self"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"!",
+					"<br>",
+					"5",
+					"#footnote-NUM\"",
+					"\"",
+					"footnote-NUM\"",
+					"8\"",
+					"8",
+					"6",
+					"3",
+					"2",
+					"0",
+					"7",
+					"4",
+					"9",
+					"1",
+					"<br>\\n",
+					"\\n<br>",
+					"6",
+					"8",
+					"5",
+					"3",
+					"0",
+					"2",
+					"7",
+					"4",
+					"9",
+					"1",
+					"",
+					"ü",
+					"8",
+					"6",
+					"5",
+					"3",
+					"0",
+					"2",
+					"7",
+					"4",
+					"9",
+					"1",
+					">\\n<",
+					"\\n",
+					"",
+					"\\n",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 228.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 556.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"get",
+						"getHTML"
+					],
+					[
+						"pr",
+						"proto	Prototype"
+					],
+					[
+						"num",
+						"numberofRelevantNeighbors"
+					],
+					[
+						"a",
+						"array"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"ge",
+						"getRandomValueArray"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"back",
+						"background-position"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"text",
+						"textBox"
+					],
+					[
+						"pl",
+						"playTone"
+					],
+					[
+						"play",
+						"playTone"
+					],
+					[
+						"pla",
+						"playTone"
+					],
+					[
+						"re",
+						"Return"
+					],
+					[
+						"aur",
+						"auraLevel"
+					],
+					[
+						"st",
+						"style	Tag"
+					],
+					[
+						"ow",
+						"owner"
+					],
+					[
+						"page",
+						"pageNumber"
+					],
+					[
+						"He",
+						"HelloWorld"
+					],
+					[
+						"sha",
+						"shapeWidth"
+					],
+					[
+						"Sha",
+						"ShapeEditor"
+					],
+					[
+						"place",
+						"playceEmptyShape"
+					],
+					[
+						"newSha",
+						"newShapeArea"
+					],
+					[
+						"new",
+						"newShapeButton"
+					],
+					[
+						"le",
+						"levelSizeInput"
+					],
+					[
+						"leve",
+						"levelSize"
+					],
+					[
+						"nex",
+						"nextLevelData"
+					],
+					[
+						"un",
+						"unused"
+					],
+					[
+						"uns",
+						"unusedCount"
+					],
+					[
+						"cu",
+						"currentLevelNumber"
+					],
+					[
+						"val",
+						"valueSum"
+					],
+					[
+						"app",
+						"applyShape"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"col",
+						"columnsToShow"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"gi",
+						"givingColumn"
+					],
+					[
+						"giv",
+						"givingColumn"
+					],
+					[
+						"to",
+						"toAppend"
+					],
+					[
+						"h",
+						"history"
+					],
+					[
+						"sub",
+						"substitution"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"su",
+						"substitution"
+					],
+					[
+						"ins",
+						"insertion"
+					],
+					[
+						"ed",
+						"editSequence"
+					],
+					[
+						"edi",
+						"editPath"
+					],
+					[
+						"edit",
+						"editSequence"
+					],
+					[
+						"dele",
+						"deletion"
+					],
+					[
+						"subs",
+						"substitution"
+					],
+					[
+						"susb",
+						"substitutionValue"
+					],
+					[
+						"us",
+						"userColumnsToShow"
+					],
+					[
+						"sh",
+						"showColumns"
+					],
+					[
+						"C",
+						"CustomSearchFunctions"
+					],
+					[
+						"Ver",
+						"Verurteilungsdatum"
+					],
+					[
+						"row",
+						"rows"
+					],
+					[
+						"conf",
+						"confirmDeletion"
+					],
+					[
+						"n",
+						"name"
+					],
+					[
+						"sort",
+						"sortByColumn"
+					],
+					[
+						"Se",
+						"seach1"
+					],
+					[
+						"hid",
+						"hideOthers"
+					],
+					[
+						"hi",
+						"hideOthers"
+					],
+					[
+						"vi",
+						"videoCount"
+					],
+					[
+						"vide",
+						"videos"
+					],
+					[
+						"vid",
+						"videos"
+					],
+					[
+						"pa",
+						"pageToken"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"p",
+						"pauseButton"
+					],
+					[
+						"paus",
+						"pauseButton"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"ifr",
+						"iframes"
+					],
+					[
+						"video",
+						"videoId"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"url",
+						"urlInput"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"chec",
+						"checkDict"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"colu",
+						"columnToSort"
+					],
+					[
+						"column",
+						"columnToSort"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"quer",
+						"queryDialog"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"dom",
+						"DOMElement"
+					],
+					[
+						"q",
+						"queryDialog"
+					],
+					[
+						"qua",
+						"queryDialog"
+					],
+					[
+						"exe",
+						"execute"
+					],
+					[
+						"data",
+						"dataSet"
+					],
+					[
+						"sele",
+						"selectTarget"
+					],
+					[
+						"is",
+						"isCompleteDate"
+					],
+					[
+						"di",
+						"displayRow"
+					],
+					[
+						"ver",
+						"verurteilung"
+					],
+					[
+						"co",
+						"columnsToCheck"
+					],
+					[
+						"apply",
+						"applyFilter"
+					],
+					[
+						"date",
+						"dateInCell"
+					],
+					[
+						"check",
+						"checkBoxName"
+					],
+					[
+						"che",
+						"checkBoxName"
+					],
+					[
+						"filter",
+						"filterDateInputs"
+					],
+					[
+						"veru",
+						"verurteilungStart"
+					],
+					[
+						"verh",
+						"verhaftungStart"
+					],
+					[
+						"dat",
+						"dateOfA"
+					],
+					[
+						"Da",
+						"dateOfB"
+					],
+					[
+						"Date",
+						"dateOfA"
+					],
+					[
+						"s",
+						"sortingFunction"
+					],
+					[
+						"c",
+						"currentSurname"
+					],
+					[
+						"rese",
+						"resetButton"
+					],
+					[
+						"valid",
+						"validEntries"
+					],
+					[
+						"fil",
+						"filterColumn"
+					],
+					[
+						"queried",
+						"queriedSurname"
+					],
+					[
+						"que",
+						"queriedSurname"
+					],
+					[
+						"v",
+						"vorname"
+					],
+					[
+						"up",
+						"updateFloatingHeaderWidth"
+					],
+					[
+						"no",
+						"noDuplicateColors"
+					],
+					[
+						"rad",
+						"commonColorsRadius"
+					],
+					[
+						"comm",
+						"commonColorsButton"
+					],
+					[
+						"commonco",
+						"commonColorsRadius"
+					],
+					[
+						"tr",
+						"targetUrl"
+					],
+					[
+						"Upda",
+						"updateFloatingHeaderWidth"
+					],
+					[
+						"width",
+						"widthFix"
+					],
+					[
+						"clo",
+						"clonedHeaderRow"
+					],
+					[
+						"pos",
+						"pos-f	position: fixed;"
+					],
+					[
+						"color",
+						"color"
+					],
+					[
+						"li",
+						"link	Tag"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"corr",
+						"Correctly"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Kjeld/Desktop/notes",
+					"settings":
+					{
+						"buffer_size": 1230,
+						"line_ending": "Windows",
+						"name": "[19:07:00] Paddy: 4500 3277 8001 5669"
+					}
+				},
+				{
+					"file": "/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/utility.js",
+					"settings":
+					{
+						"buffer_size": 95,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Shape.js",
+					"settings":
+					{
+						"buffer_size": 1272,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Game.js",
+					"settings":
+					{
+						"buffer_size": 3611,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+							""
+						],
+						[
+							"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+							"Compile"
+						],
+						[
+							"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+							"Harmony"
+						]
+					],
+					[
+						"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 219.0,
+				"last_filter": "inden",
+				"selected_items":
+				[
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packa",
+						"Package Control: Enable Package"
+					],
+					[
+						"emme",
+						"Set Syntax: Emmet"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 355.0,
+				"history":
+				[
+					"print(\"lol\")",
+					"print(lol)",
+					"print \"lol\"",
+					"map",
+					"hi",
+					"hi = \"hi\"",
+					"var hi = \"hi\";",
+					"isthisjs",
+					"\"rekt\".charAt(2)",
+					"\"rekt\"[2]",
+					"\"rekt\"[5]",
+					"[] + {}",
+					"\"hi\"",
+					"hi",
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts",
+				"/D/Workbench/websites/Default Web Framework"
+			],
+			"file_history":
+			[
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/levelGenerator.js",
+				"/D/Workbench/websites/weoneworld/web/js/history.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/script.max.js",
+				"/D/Workbench/websites/weoneworld/web/index.html",
+				"/C/Users/Kjeld/Desktop/wowtodo.txt",
+				"/D/Workbench/websites/weoneworld/web/index-universell.html",
+				"/C/Python34/Lib/site-packages/png.py",
+				"/D/Workbench/Musik/Done/SoundToImage.py",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/levelData.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Shape.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Game.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/utility.js",
+				"/D/Workbench/websites/Default Web Framework/util.js",
+				"/C/Users/Kjeld/Desktop/simul.js",
+				"/D/Workbench/websites/weoneworld/web/wow-neu.html",
+				"/C/Users/Kjeld/Desktop/test.html",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Verpflichtend/Unikram/Lernen/Rechnerstrukturen und Betriebssysteme/Übrung 2/RSBS - Arith.circ",
+				"/D/Workbench/workspace/workspace/nodejs/server.js",
+				"/D/Workbench/workspace/workspace/nodejs/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/script.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/soundfiles/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/levenshtein.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/index.html",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/js/owner.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/js/display.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/main.js",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/style.sass",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/soundfiles/TEMP.BAT",
+				"/C/Users/Kjeld/Desktop/funk.ahk",
+				"/D/Programme (Nicht zeitkritisch)/Sublime Text 3/Hallo Monique,",
+				"/C/Users/Kjeld/Desktop/Hallo Monique,",
+				"/C/Program Files (x86)/Image-Line/FL Studio 11/Data/Projects/singlenote.flp",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/footer.php",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/front-page.php",
+				"/C/Users/Kjeld/Dropbox/Quadra-fill/Buch/Aurenverfolgungsmodul/style.sccs",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/functions.php",
+				"/C/Python34/Lib/sendkeys-py-si-master/examples/MacroScript.py",
+				"/C/Users/Kjeld/Desktop/songs.txt",
+				"/C/Users/Kjeld/Desktop/Audio-Input-Effects-master/index.html",
+				"/C/Users/Kjeld/Dropbox/Michael, Music and Math/FL Studio Producer Edition 11.0.4+Plugins Bundle R2R [ChingLiu]/ChingLiu.Install.Notes.nfo",
+				"/D/Program Files (x86)/Grabber/grabber.conf.xml",
+				"/D/Program Files (x86)/Grabber/results/touchFiles.xml",
+				"/D/Program Files (x86)/Grabber/local/spiderSite.xml",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/BotRun.py",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/Bot/Planner.py",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/Bot/Strategies/AbstractStrategy.py",
+				"/D/Workbench/playbook.txt",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/HelloWorld/HelloWorld.toc",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/HelloWorld/HelloWorld.lua",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/RepGrind/HelloWorld.toc",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/RepGrind/HelloWorld.xml",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/RepGrind/HelloWorld.lua",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/Bagnon/Bagnon.toc",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/Bot/Strategies/RandomStrategy.py",
+				"/C/Users/Kjeld/Desktop/generierte texte",
+				"/D/Games/WoW/World of Warcraft/Interface/AddOns/Bagnon/main.lua",
+				"/C/Users/Kjeld/Desktop/xkcd/crawler.py",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/style.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Square.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/editor.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/editableShape.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/editor.js",
+				"/D/Workbench/workspace/workspace/TheAIGames/Tetris/LICENSE",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/editor.min.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/script.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/style.css",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/index.html",
+				"/D/Verpflichtend/Bewerbungskram/Juni 2015/Krankenkassenbescheinnigung",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/test/tests.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/user.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/user.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/user.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/controls.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/table.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/index.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/style.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/customSeachFunctions.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/ready.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/todo.txt",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/user.js",
+				"/D/Workbench/workspace/workspace/nodejs/package.json",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/wp-config.php",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/Database.class.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/classes/Database.class.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/script.user.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/memoriam.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/styles.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/test.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/tests.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/admin.htm",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/levenmusic/sounds/filelist.txt",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/Kjeld/Desktop/index.html",
+				"/J/user.js",
+				"/C/Users/Kjeld/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/scripts/classes/Orb.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/style.scss",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/contain/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/addRowDialog.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/ajax.php",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/database.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/utility.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/classes/row.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/simulplay/style.css",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/simulplay/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/simulplay/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/isabel-neu/.htaccess",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-1/script.max.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/queryDialog.js",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/scripts/classes/addRowDialog.js",
+				"/D/Music/Bass/Tell me why",
+				"/D/Workbench/workspace/workspace/Python/generateLetterBitmap.py",
+				"/D/Workbench/workspace/workspace/Python/script.py",
+				"/D/Workbench/workspace/workspace/Python/helloworld.py",
+				"/C/Users/Kjeld/AppData/Local/Temp/fz3temp-2/explainThisWord.php",
+				"/C/Users/Kjeld/Desktop/explainThisWord.php",
+				"/C/Users/Kjeld/Documents/GitHub/accept2/illacceptanything/index.html",
+				"/C/Users/Kjeld/Documents/GitHub/illacceptanything/index.html",
+				"/D/Workbench/workspace/workspace/Illacceptanything/illacceptanything/index.html",
+				"/D/Programme (Nicht zeitkritisch)/wamp/www/schicksale/style.css",
+				"/D/Workbench/Designs/PraxisPrint/Buch Canaris-gekürzte Version.html",
+				"/D/Workbench/Designs/PraxisPrint/canaris-autotidied.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\FlipFlip",
+					"D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\schicksale",
+					"E:\\Workbench\\websites\\chrome-no-css\\CSS-Blocker",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\schicksale",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\schicksale\\scripts",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\mtm",
+					"E:\\Programme (Nicht zeitkritisch)\\wamp\\www\\posterisation",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"self",
+					"read",
+					"=",
+					"push",
+					"]*",
+					"\"",
+					"	",
+					"numberofRe",
+					"o",
+					"elem",
+					"i",
+					"window.",
+					"history.back()",
+					"history",
+					"changePage",
+					"window.",
+					"history.pu",
+					"hisotry",
+					"changePage",
+					"meinevent",
+					"registerfoto",
+					"\"profiled",
+					"\"profil-ed",
+					"\"profile-dit",
+					"\"user-pri",
+					"#upload-file-container",
+					"#upload-file-containered",
+					"#upload-file-container",
+					"\"edit-event\"",
+					"#create-event",
+					"><",
+					"\"create-event\"",
+					" class=\"seiteneu\"",
+					"id=\"projekte",
+					"#projekt",
+					"#projektstatus",
+					"#projekstatus",
+					"><",
+					"\"home\"",
+					"\"register\"",
+					"\"behorden\"",
+					"\"register\"",
+					"\"behorden\"",
+					"  ",
+					"^.*data-role=\"page\".*\\n",
+					"\"sprachschule\"",
+					"\"sprachschulen\"",
+					"hr\\s*\\{",
+					"hr ",
+					"hr {",
+					"width=\"25%\"",
+					"infoicon",
+					"<img",
+					"<div cla",
+					"<img src",
+					"<div",
+					"<div class=\"",
+					"width=\"20%\"",
+					"imgdeutschlandrechts",
+					"imgdeutschlandmitte",
+					"imgdeutschlandlinks",
+					"/>",
+					"addhotspot",
+					"\"login\"",
+					"\"addhotspot\"",
+					"addhotspot",
+					"#login",
+					"\"login\"",
+					"logowonew.png",
+					"logonew.png",
+					"\"login\"",
+					"desktop",
+					"\"seite1\"",
+					"desktopright",
+					"desctopright",
+					"/></div>",
+					"an><br/><",
+					"pan><br/><s",
+					"v><div><s",
+					"><div><im",
+					"<li cla",
+					"seite1",
+					"data-role=\"page\"",
+					"data-role=page\"",
+					"\"erklarbild\"",
+					"erklarbild",
+					"id=\"apperk",
+					"id=\"login",
+					"id=login",
+					"#login",
+					"loginpage",
+					"login",
+					"loginpage",
+					"welcome",
+					"role=\"page\"",
+					"welcome1",
+					"role=\"page\"",
+					"<a onClick=\"appei",
+					"selectlan",
+					"select",
+					"Hello",
+					"hello",
+					"id=hello",
+					"id=\"hello\"",
+					"#hello",
+					"welcome1",
+					"<div class=\"log",
+					"<div class=\"",
+					"<div class=\"logo\"",
+					"seiteneu",
+					"losat",
+					"eilback.png\" class=\"weiterbuttonicon\"/></a>",
+					"id=\"welc",
+					"welcome",
+					"uberschrifteinfuhrung",
+					"role=\"page\"",
+					"role=\"page\"	",
+					"role=\"page\"",
+					"role",
+					"role=page",
+					"$(\"#f",
+					".keyup(function() {\n        var text = $(this).val();\n        $(this).val(\n            text.replace(\"ä\", \"ae\")\n                .replace(\"ö\", \"oe\")\n                .replace(\"ü\", \"ue\")\n        );\n    });",
+					"ÃƒÂ¶",
+					"replace",
+					"ÃƒÂ¼",
+					"fär",
+					"ÃƒÂ¤",
+					"clickcr"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"!",
+					"<br>",
+					"5",
+					"#footnote-NUM\"",
+					"\"",
+					"footnote-NUM\"",
+					"8\"",
+					"8",
+					"6",
+					"3",
+					"2",
+					"0",
+					"7",
+					"4",
+					"9",
+					"1",
+					"<br>\\n",
+					"\\n<br>",
+					"6",
+					"8",
+					"5",
+					"3",
+					"0",
+					"2",
+					"7",
+					"4",
+					"9",
+					"1",
+					"",
+					"ü",
+					"8",
+					"6",
+					"5",
+					"3",
+					"0",
+					"2",
+					"7",
+					"4",
+					"9",
+					"1",
+					">\\n<",
+					"\\n",
+					"",
+					"\\n",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\simulplay"
+				},
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\posterisation"
+				},
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\isabel-neu"
+				},
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\contain"
+				},
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\levenmusic"
+				},
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\superfluidwebdesign"
+				},
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\schicksale"
+				},
+				{
+					"path": "D:\\Workbench\\workspace\\workspace\\nodejs"
+				},
+				{
+					"path": "D:\\Programme (Nicht zeitkritisch)\\wamp\\www\\FlipFlip"
+				},
+				{
+					"path": "D:\\Workbench\\workspace\\workspace\\TheAIGames\\Tetris"
+				},
+				{
+					"path": "C:\\Users\\Kjeld\\Desktop\\Audio-Input-Effects-master"
+				},
+				{
+					"path": "C:\\Users\\Kjeld\\Dropbox\\Quadra-fill\\Buch\\Aurenverfolgungsmodul"
+				},
+				{
+					"path": "D:\\Workbench\\websites\\weoneworld"
+				},
+				{
+					"path": "D:\\Workbench\\websites\\Default Web Framework"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Kjeld/Desktop/notes",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1230,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1159,
+										1159
+									]
+								],
+								"settings":
+								{
+									"auto_name": "[19:07:00] Paddy: 4500 3277 8001 5669",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 78.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/utility.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 95,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										95,
+										95
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Shape.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1272,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										924,
+										924
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Programme (Nicht zeitkritisch)/wamp/www/FlipFlip/scripts/Game.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3611,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1629,
+										1629
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": -0.0,
+								"translation.y": 507.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 184.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Python/Python.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,720,-170,181,402",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 228.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

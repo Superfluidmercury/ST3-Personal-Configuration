@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"FileDiffs",
+		"HTMLBeautify",
+		"JavaScript & Coffeescript Build Systems",
+		"JSHint Gutter",
+		"Package Control",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass"
+	]
+}
